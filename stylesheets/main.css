@@ -8,6 +8,11 @@ body {
   background-color: #FFFFFF;
 }
 
+h1 {
+  font-family: 'Overlock', cursive;
+  font-size: 80px;
+}
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
